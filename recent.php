@@ -4,6 +4,6 @@ echo "test";
 
 echo "this is merged"
 
-echo "second merging"
+echo "second mergings"
 
 ?>
