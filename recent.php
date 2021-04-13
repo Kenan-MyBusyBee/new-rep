@@ -12,5 +12,7 @@ echo "3rd branch";
 
 echo "4th branch";
 
+echo "deleted the branch named new";
+
 
 ?>
