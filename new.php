@@ -4,4 +4,4 @@ stashing this
 
 revert git
 
-reverted back to 
+reverted back to head
